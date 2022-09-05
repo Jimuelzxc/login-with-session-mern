@@ -1,0 +1,53 @@
+:root {
+    --light-bg: #ffffff;
+    --light-text: #272727;
+    --light-input: #F2F2F2;
+
+    --dark-bg: #1E1F20;
+    --dark-text: #ffffff;
+    --dark-input: #232527;
+
+    --primary: #F31D51;
+    --link: #4356FC;
+}
+.form-container{
+    gap: 90px;
+}
+a{
+    color: var(--link);
+    text-decoration: none;
+}
+.mode{
+    background: none;
+    outline: none;
+    border: none;
+    font-size: 1.5em;
+    color: grey;
+    transition-duration: 0.5s;
+}
+.mode:hover{
+    color: var(--primary);
+}
+input {
+    border-radius: 10px;
+    border: none;
+    background: var(--input);
+    padding: 15px 30px;
+}
+
+.submit-btn {
+    background: var(--primary);
+    color: white;
+    font-weight: bold;
+}
+
+/* LIGHT MODE */
+#l.parent-container { background: var(--light-bg);}
+#l h1{ color: var(--light-text);}
+#l label {color: var(--light-text);}
+#l .input {background: var(--light-input); color: var(--light-text);}
+/* DARK MODE */
+#d.parent-container { background: var(--dark-bg);}
+#d h1{ color: var(--dark-text);}
+#d label {color: var(--dark-text);}
+#d .input {background: var(--dark-input); color: var(--dark-text);}
