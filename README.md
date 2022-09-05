@@ -1,7 +1,8 @@
 # SIMPLE LOGIN W/ SESSION USING MERN STACK
-###### 📸 Screenshots:
+###### LIGHT MODE
 ![alt text](https://github.com/Jimuelzxc/login-with-session-mern/blob/main/src/assets/screenshots/UI-signin-lightmode.png)
 ![alt text](https://github.com/Jimuelzxc/login-with-session-mern/blob/main/src/assets/screenshots/UI-signup-lightmode.png)
+###### DARK MODE
 ![alt text](https://github.com/Jimuelzxc/login-with-session-mern/blob/main/src/assets/screenshots/UI-signin-darkmode.png)
 ![alt text](https://github.com/Jimuelzxc/login-with-session-mern/blob/main/src/assets/screenshots/UI-signup-darkmode.png)
 
