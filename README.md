@@ -1,6 +1,13 @@
-#SIMPLE LOGIN W/ SESSION USING MERN STACK
-screenshots:
+# SIMPLE LOGIN W/ SESSION USING MERN STACK
+###### 📸 Screenshots:
+![alt text](https://github.com/Jimuelzxc/login-with-session-mern/blob/main/src/assets/screenshots/UI-signin-lightmode.png)
 ![alt text](https://github.com/Jimuelzxc/login-with-session-mern/blob/main/src/assets/screenshots/UI-signup-lightmode.png)
+![alt text](https://github.com/Jimuelzxc/login-with-session-mern/blob/main/src/assets/screenshots/UI-signin-darkmode.png)
+![alt text](https://github.com/Jimuelzxc/login-with-session-mern/blob/main/src/assets/screenshots/UI-signup-darkmode.png)
+
+
+
+
 # Getting Started with Create React App
 
 
